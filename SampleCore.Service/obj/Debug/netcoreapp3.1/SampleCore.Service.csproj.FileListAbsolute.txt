@@ -1,0 +1,16 @@
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Service\bin\Debug\netcoreapp3.1\SampleCore.Service.deps.json
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Service\bin\Debug\netcoreapp3.1\SampleCore.Service.dll
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Service\bin\Debug\netcoreapp3.1\SampleCore.Core.dll
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Service\bin\Debug\netcoreapp3.1\SampleCore.Data.dll
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Service\bin\Debug\netcoreapp3.1\SampleCore.Data.pdb
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Service\bin\Debug\netcoreapp3.1\SampleCore.Core.pdb
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Service\obj\Debug\netcoreapp3.1\SampleCore.Service.csprojAssemblyReference.cache
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Service\obj\Debug\netcoreapp3.1\SampleCore.Service.AssemblyInfoInputs.cache
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Service\obj\Debug\netcoreapp3.1\SampleCore.Service.AssemblyInfo.cs
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Service\obj\Debug\netcoreapp3.1\SampleCore.Service.csproj.CopyComplete
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Service\bin\Debug\netcoreapp3.1\SampleCore.Service.pdb
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Service\bin\Debug\netcoreapp3.1\SampleCore.Utilities.dll
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Service\bin\Debug\netcoreapp3.1\SampleCore.Utilities.pdb
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Service\obj\Debug\netcoreapp3.1\SampleCore.Service.csproj.CoreCompileInputs.cache
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Service\obj\Debug\netcoreapp3.1\SampleCore.Service.dll
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Service\obj\Debug\netcoreapp3.1\SampleCore.Service.pdb

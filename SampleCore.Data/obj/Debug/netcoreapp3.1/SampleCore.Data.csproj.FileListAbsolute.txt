@@ -1,0 +1,12 @@
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Data\bin\Debug\netcoreapp3.1\SampleCore.Data.deps.json
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Data\bin\Debug\netcoreapp3.1\SampleCore.Data.dll
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Data\bin\Debug\netcoreapp3.1\SampleCore.Data.pdb
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Data\obj\Debug\netcoreapp3.1\SampleCore.Data.AssemblyInfoInputs.cache
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Data\obj\Debug\netcoreapp3.1\SampleCore.Data.AssemblyInfo.cs
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Data\obj\Debug\netcoreapp3.1\SampleCore.Data.dll
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Data\obj\Debug\netcoreapp3.1\SampleCore.Data.pdb
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Data\bin\Debug\netcoreapp3.1\SampleCore.Core.dll
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Data\bin\Debug\netcoreapp3.1\SampleCore.Core.pdb
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Data\obj\Debug\netcoreapp3.1\SampleCore.Data.csprojAssemblyReference.cache
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Data\obj\Debug\netcoreapp3.1\SampleCore.Data.csproj.CopyComplete
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Data\obj\Debug\netcoreapp3.1\SampleCore.Data.csproj.CoreCompileInputs.cache

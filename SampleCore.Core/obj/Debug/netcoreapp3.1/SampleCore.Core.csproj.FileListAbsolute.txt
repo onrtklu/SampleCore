@@ -1,0 +1,9 @@
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Core\bin\Debug\netcoreapp3.1\SampleCore.Core.deps.json
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Core\bin\Debug\netcoreapp3.1\SampleCore.Core.dll
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Core\bin\Debug\netcoreapp3.1\SampleCore.Core.pdb
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Core\obj\Debug\netcoreapp3.1\SampleCore.Core.AssemblyInfoInputs.cache
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Core\obj\Debug\netcoreapp3.1\SampleCore.Core.AssemblyInfo.cs
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Core\obj\Debug\netcoreapp3.1\SampleCore.Core.csproj.CoreCompileInputs.cache
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Core\obj\Debug\netcoreapp3.1\SampleCore.Core.dll
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Core\obj\Debug\netcoreapp3.1\SampleCore.Core.pdb
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Core\obj\Debug\netcoreapp3.1\SampleCore.Core.csprojAssemblyReference.cache

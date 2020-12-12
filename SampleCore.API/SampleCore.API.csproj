@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SampleCore.Data\SampleCore.Data.csproj" />
+    <ProjectReference Include="..\SampleCore.Framework\SampleCore.Framework.csproj" />
+    <ProjectReference Include="..\SampleCore.Service\SampleCore.Service.csproj" />
+  </ItemGroup>
+
+
+</Project>

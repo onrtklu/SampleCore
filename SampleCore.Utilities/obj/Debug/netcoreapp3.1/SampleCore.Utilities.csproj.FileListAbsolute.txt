@@ -1,0 +1,9 @@
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Utilities\bin\Debug\netcoreapp3.1\SampleCore.Utilities.deps.json
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Utilities\bin\Debug\netcoreapp3.1\SampleCore.Utilities.dll
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Utilities\bin\Debug\netcoreapp3.1\SampleCore.Utilities.pdb
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Utilities\obj\Debug\netcoreapp3.1\SampleCore.Utilities.csprojAssemblyReference.cache
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Utilities\obj\Debug\netcoreapp3.1\SampleCore.Utilities.AssemblyInfoInputs.cache
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Utilities\obj\Debug\netcoreapp3.1\SampleCore.Utilities.AssemblyInfo.cs
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Utilities\obj\Debug\netcoreapp3.1\SampleCore.Utilities.csproj.CoreCompileInputs.cache
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Utilities\obj\Debug\netcoreapp3.1\SampleCore.Utilities.dll
+D:\Code\Projects\Mrt\SampleCore\SampleCore\SampleCore.Utilities\obj\Debug\netcoreapp3.1\SampleCore.Utilities.pdb
